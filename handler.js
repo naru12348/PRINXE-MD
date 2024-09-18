@@ -110,7 +110,7 @@ export async function handler(chatUpdate) {
                     afkReason: '',
                     banned: false,
                     warn: 0,
-		    language: 'en',
+		    language: 'ar',
                     level: 0,
                     role: 'Tadpole',
                     autolevelup: false,
